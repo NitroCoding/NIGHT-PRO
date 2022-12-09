@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    border: 6mm ridge rgb(50, 220, 50);
+}
+
+h3 {
+    transition: 300ms;
+}
+h3:hover{
+    color: red;
+}
+h2 {
+    color: lime;
+}
